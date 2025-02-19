@@ -16,12 +16,12 @@
             "material": "ABS",
             "spool_id": "9",
             "color": "#131313",
-            "weight": 816.9164563123784,
+            "weight": 787.5207900565405,
             "extruder_temp": 260,
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Loaded"
+            "status": null
         },
         "lane2": {
             "name": "lane2",
@@ -62,7 +62,7 @@
             "material": "ABS",
             "spool_id": "11",
             "color": "#ff2600",
-            "weight": 999.3594092040083,
+            "weight": 997.3423052622796,
             "extruder_temp": 260,
             "runout_lane": "NONE",
             "filament_status": "In Tool",
